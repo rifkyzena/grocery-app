@@ -14,6 +14,7 @@ Amazing E-Grocery was built with Model View Controller (MVC) architecture.
 5. Open the link given after the last command to open the web application.
 
 ***Please contact me if you run into any problem when trying to run the app***
+>To login as admin, check the credentials on AccountSeeder file.php
 
 Below is the database design / table structure of the application:
 ![image](https://github.com/rifkyzena/grocery-app/assets/55536824/5c649fdd-f9ab-4774-be14-a4017e773e25)
