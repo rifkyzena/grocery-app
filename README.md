@@ -7,12 +7,12 @@ Amazing E-Grocery was built with Model View Controller (MVC) architecture.
 # Startup Guide
 1. Install XAMPP, then start Apache and MySQL module (make sure these two modules are active, otherwise the application can't connect to the database and won't start).
 2. Go to http://localhost/phpmyadmin/.
-~~3. Create a database named 'db_groceries'.
-4. Open the project's directory in a terminal and run the command:
+3. Open the project's directory in a terminal and run the command:
     - *php artisan storage:link* (so the images can load)
-    - *php artisan migrate:fresh --seed* (to drop all tables then migrate new tables to the database, and seed the database from the seeder files)
     - *php artisan serve*
-5. Open the link given after the last command to open the web application.
+4. Open the link given after the last command to open the web application.
+
+***Please contact me if you run into any problem when trying to run the app***
 
 Below is the preview and/or flow of the application:
 
